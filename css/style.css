@@ -18,7 +18,7 @@ body {
 /* NAV CONTAINER */
 .nav {
   display: flex;
-  justify-content: space-between; /* logo til venstre, menu til højre */
+  justify-content: space-between;
   align-items: center;
   padding: 20px 40px;
 }
@@ -101,7 +101,7 @@ body {
 /* SPLIT */
 .split {
   display: flex;
-  height: 400px; /* eller hvad passer dit design */
+  height: 400px; 
 }
 
 .split-text {
